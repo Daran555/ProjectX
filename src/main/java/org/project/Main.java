@@ -3,7 +3,6 @@ package org.project;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.util.Map;
 
 public class Main {
@@ -18,7 +17,7 @@ public class Main {
         for(int i=0;i<name.length();i++)
         {
             //String first = name.getJSONObject("userId").Integer.getString();
-            System.out.println("first");
+            System.out.println("Updated Git Commit and push");
         }
 
 
